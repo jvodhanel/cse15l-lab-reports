@@ -1,10 +1,10 @@
 # big words
 ## also big words
-[a special link]()
+[a special link](https://tse1.mm.bing.net/th?id=OIP.tNxyom7tyKURA6H5lj_JIgHaE8&pid=Api&P=0&w=261&h=174)
 this is a new file
 **bold text?**
 *italics?*
-![cat picture]()
+![cat picture](https://tse1.mm.bing.net/th?id=OIP.tNxyom7tyKURA6H5lj_JIgHaE8&pid=Api&P=0&w=261&h=174)
 > Blockquote
 > Blockquote
 > Blockquote
