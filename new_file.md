@@ -11,9 +11,9 @@ this is a new file
 * List
 * List
 * List
-1. ONE
-2. TWO
-3. THREE
+1. one
+2. two
+3. three
 ---
 'Inline code'
 ```
