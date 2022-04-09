@@ -55,8 +55,24 @@
 <br />
 
 ### Setting an SSH Key
+- To set up your ssh key, first type the command "ssh-keygen".
+- Then, enter the file to save the key in, using your own username: (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
+- Then it will ask for a passphrase, do not type in a passphrase, just press enter.
+- If you are on Windows, follow the extra ssh-add steps here [extra steps for Windows](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
 
+- Now to copy the public key to the .ssh directory for your user account on the server, connect to the host, use the command "mkdir .ssh" and log out. Then use the command "scp /Users/<user-name>/.ssh/id_rsa.pub
+cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys" using your username and account to copy over the key. 
 
+![ssh key](sshKey.PNG)
 
+- Now you should be able to connect without typing in a password like in this picture. <br /> 
+<br />
+<br />
+
+### Optimizing Remote Running 
+- One shortcut you can use when connecting to the server and using commands is by connecting to the server usnig the normal command then adding a command you want to run on the server in quotes. This way it will run the command on the server after you connect in the same line. 
+![optimize](optimize.PNG)
+
+- Another helpful tip, you can recall the last command that you ran by using the up arrow on your keyboard. 
 
 
