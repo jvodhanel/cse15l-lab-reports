@@ -32,12 +32,12 @@ For this task I generated a new public/private key pair and added the public key
 <br />
 
 ### Public key in Github
-![pub key](publicKey.PNG)
+![pub key](newPubKey.PNG)
 <br /> 
 <br />
 
-### Private key 
-![priv key](privateKey.PNG)
+### Private key location
+![priv key](locationPrivKey.PNG)
 <br /> 
 <br />
 
