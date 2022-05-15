@@ -71,9 +71,9 @@ For this task I copied my markdown-parse directory to a new directory called lab
 <br />
 
 ### Logging into ieng6 accound and compiling and running tests
-![tests](runTestsError.PNG)
+![tests](newCompileRunTests.PNG)
 <br /> 
 <br />
 
 ### Combining scp, ; ,and ssh
-![combine](combineSCPandSSH.PNG)
+![combine](combineCommands.PNG)
