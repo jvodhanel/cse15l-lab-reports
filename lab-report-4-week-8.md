@@ -15,19 +15,22 @@
 <br /> 
 
 ### Snippet 1
-![commonmark1](commonmark1.PNG)
+![commonmark1](commonmark1.PNG)<br />
+
 Expected Output: "`google.com", "google.com", "ucsd.edu"
 <br />
 <br />
 
 ### Snippet 2
-![commonmark2](commonmark2.PNG)
+![commonmark2](commonmark2.PNG)<br />
+
 Expected Output: "a.com", "a.com(())", "example.com"
 <br />
 <br />
 
 ### Snippet 3
-![commonmark3](commonmark3.PNG)
+![commonmark3](commonmark3.PNG)<br />
+
 Expected Output: "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule"
 <br />
 <br />
@@ -43,7 +46,7 @@ Expected Output: "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/sche
 <br />
 
 ## Review implementation output
-![reviewcodeoutput](reviewCodeOutput.PNG)
+![reviewcodeoutput] (reviewCodeOutput.PNG)
 <br />
 <br />
 
