@@ -46,7 +46,7 @@ Expected Output: "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/sche
 <br />
 
 ## Review implementation output
-![reviewcodeoutput] (reviewCodeOutput.PNG)
+![reviewcodeoutput](reviewCodeOutput.PNG)
 <br />
 <br />
 
